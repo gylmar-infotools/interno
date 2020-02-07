@@ -1,9 +1,1 @@
-[submodule "gylmar-infotools/account-analytic"]
-	path = gylmar-infotools/account-analytic
-	url = git@github.com:gylmar-infotools/account-analytic.git
-	branch = 12.0
 
-[submodule "infotoolsmx/external-addons"]
-	path = infotoolsmx/external-addons
-	url = git@github.com:infotoolsmx/external-addons.git
-	branch = 12
